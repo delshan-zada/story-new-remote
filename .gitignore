@@ -1,0 +1,4 @@
+#ignore secrets file
+secrets.txt
+#ignore the css file
+*.css
